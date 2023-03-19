@@ -10,7 +10,7 @@ Using the command-line in the Terminal, you can do the following:
 You can test your code by running the following command:
 
 ```bash
-mvn clean test
+
 ```
 
 You can run the program using the following command:
