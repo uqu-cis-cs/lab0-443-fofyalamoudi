@@ -96,7 +96,7 @@ public class App {
                     break;
             }
         }
-        System.out.println(out);
+        System.out.print(out);
    
     }
 }
